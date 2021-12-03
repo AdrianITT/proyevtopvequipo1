@@ -18,3 +18,13 @@ C:\Users\Roman\Documents\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1Pry
 C:\Users\Roman\Documents\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.csproj.CoreCompileInputs.cache
 C:\Users\Roman\Documents\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.exe
 C:\Users\Roman\Documents\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.pdb
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\bin\Debug\Equipo1PryectoRedPV.exe.config
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\bin\Debug\Equipo1PryectoRedPV.exe
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\bin\Debug\Equipo1PryectoRedPV.pdb
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.Form1.resources
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.exe
+C:\Users\adria\OneDrive\Documentos\GitHub\proyevtopvequipo1\Equipo1PryectoRedPV\Equipo1PryectoRedPV\obj\Debug\Equipo1PryectoRedPV.pdb
