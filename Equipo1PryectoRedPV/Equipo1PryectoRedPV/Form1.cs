@@ -19,8 +19,10 @@ namespace Equipo1PryectoRedPV
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 InicioSesion = new Form1();
-            InicioSesion.Visible = false;
+            
+            
+            Form2 adentro =new Form2();
+            adentro.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
